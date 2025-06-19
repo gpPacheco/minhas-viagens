@@ -70,6 +70,6 @@
 
 ## ⬇️ Download
 - **Versão APK (Android)**
-
+- https://drive.google.com/file/d/1X-ShcpGTHKmLWbf5t6ISdpMnwUnHugRH/view?usp=sharing
 ---
 
