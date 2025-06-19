@@ -64,7 +64,7 @@
 
 ## 🎥 Demonstração em Vídeo
 
-![Demo GIF](imagens/video.gif) 
+![Demo GIF](imagens/Video.gif) 
 
 ---
 
