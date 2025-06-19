@@ -1,19 +1,48 @@
 # Minhas Viagens
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## 📱 Como Usar
 
-## Getting Started
+### ➕ Adicionar local
+- Toque no botão **➕**
+- Selecione um local no mapa
+- Confirme e dê um nome
 
-A few resources to get you started if this is your first Flutter project:
+### 📍 Visualizar viagens
+- A lista é gerada automaticamente na tela inicial
+- Toque em um item para exibir no mapa
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+### 🔄 Ordenar
+- Toque no ícone **🔄** para ordenar por proximidade
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🗑️ Excluir
+- Deslize o item para a esquerda ou toque no **🗑️**
 
-## Getting Started: FlutLab - Flutter Online IDE
+---
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## 📸 Telas
+
+| Tela Inicial | Adicionar Local | Lista de Viagens |
+|--------------|-----------------|------------------|
+| <img src="1.png" width="200"> |
+
+| Mapa | Ordenação | Confirmação |
+|------|-----------|-------------|
+| <img src="2.png" width="200"> | <img src="3.png" width="200"> | <img src="4.png" width="200"> |
+
+| Lista de Viagens |
+|--------------|-----------------|------------------|
+| <img src="5.png" width="200"> |
+
+---
+
+## 🎥 Demonstração em Vídeo
+
+![Demo GIF](![Demo GIF](imagens/video.gif))  
+
+---
+
+## ⬇️ Download
+- **Versão APK (Android)**
+
+---
+
