@@ -1,4 +1,31 @@
 # Minhas Viagens
+## 🛠 Tecnologias Utilizadas
+
+| Tecnologia | 
+|------------|
+**Flutter:** Framework principal
+**flutter_map:** Exibição de mapas
+**latlong2:**  Manipulação de coordenadas
+**geolocator:**  Geolocalização 
+**Geocoding API:**  Reverse geocoding 
+
+---
+
+## 🔧 Instalação
+
+1. **Clone** o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/minhas-viagens.git
+   cd minhas-viagens
+
+2. **Instale as dependências**
+   ```bash
+   flutter pub get
+
+3. **Execute**
+   ```bash
+   flutter run
+---
 
 ## 📱 Como Usar
 
@@ -21,23 +48,23 @@
 
 ## 📸 Telas
 
-| Tela Inicial | Adicionar Local | Lista de Viagens |
-|--------------|-----------------|------------------|
-| <img src="1.png" width="200"> |
+| Tela Inicial |
+|--------------|
+| <img src="/imagens/1.png" width="200"> |
 
 | Mapa | Ordenação | Confirmação |
 |------|-----------|-------------|
-| <img src="2.png" width="200"> | <img src="3.png" width="200"> | <img src="4.png" width="200"> |
+| <img src="/imagens/2.png" width="200"> | <img src="/imagens/3.png" width="200"> | <img src="/imagens/4.png" width="200"> |
 
 | Lista de Viagens |
-|--------------|-----------------|------------------|
-| <img src="5.png" width="200"> |
+|--------------|
+| <img src="/imagens/5.png" width="200"> |
 
 ---
 
 ## 🎥 Demonstração em Vídeo
 
-![Demo GIF](![Demo GIF](imagens/video.gif))  
+![Demo GIF](imagens/video.gif) 
 
 ---
 
